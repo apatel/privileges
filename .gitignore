@@ -14,3 +14,10 @@ config/database.yml
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Mac specific
+.DS_Store
+
+# Backup files
+*.swp
+*~
